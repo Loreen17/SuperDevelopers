@@ -1,18 +1,49 @@
 .topnav {
   overflow: hidden;
-  background-color:#380B61;
+  background-color:#A9A9A9;
 }
 
 .topnav a {
-  float: right;
-  color: #ff4da6;
+  float: left;
+  color: #2F4F4F;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
 }
 
 .topnav a:hover{
-  background-color: #ddd;
-  color: #ff4da6;
+  background-color: #DCDCDC;
+  color: #C0C0C0;
+}
+
+.header {
+  background-image: url(https://hdwallpaperim.com/wp-content/uploads/2017/09/16/53322-technology-binary-numbers-748x421.jpg);
+  background-position: 100%;
+  background-size: cover;
+  text-align: center;
+  margin-top: 0px;
+}
+
+ h1 {
+  font-size: 125px;
+  color : #ffffff
+}
+
+.main {
+  font-size: 45px;
+  color : #ffffff
+
+}
+.about {
+    text-align: center;
+    font-size: 30px;
+}
+
+body {
+  background-color: #A9A9A9
+}
+
+@@media screen and (max-width: 600px) {
+
 }
