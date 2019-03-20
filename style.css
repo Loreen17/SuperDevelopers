@@ -49,12 +49,37 @@ body {
   margin: 0px;
 }
 
-@@media screen and (max-width: 600px) {
-
-}
 
 h4 {
   border-width: 15px;
   font-size: 15px;
 
+}
+
+#form {
+  color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+  width: 100%;
+  border-radius: 30px;
+  font-style: italic;
+ }
+ #submit{
+   box-shadow: inset -3px -3px 10px #eee;
+   border-radius: 15px;
+   font-size: 25px;
+   color: #141FCD;
+   text-align: center;
+}
+
+#comment{
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+}
+@media screen and (max-width: 600px) {
+  body {
+
+  }
 }
