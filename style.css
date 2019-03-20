@@ -95,13 +95,23 @@ text-align: center;
   float: right;
   text-align: center;
 }
-
-#form {
+#form{
   color: #ffffff;
   text-align: center;
   font-size: 30px;
   width: 100%;
   border-radius: 30px;
+  font-style: italic;
+}
+
+input[type=text], select {
+  color: #ffffff;
+  text-align: center;
+  margin:8px 0;
+  width: 100%;
+  padding: 15px 20px;
+  border-radius: 30px;
+  box-sizing:border-box;
   font-style: italic;
  }
  #submit{
@@ -111,7 +121,6 @@ text-align: center;
    color: #141FCD;
    text-align: center;
 }
-
 #comment{
   color: #ffffff;
   text-align: center;
