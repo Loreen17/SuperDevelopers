@@ -53,8 +53,48 @@ body {
 
 }
 
-h4 {
-  border-width: 15px;
-  font-size: 15px;
+#teamwork {
+border: solid 0px;
+width:100%;
+height: 600px;
+float: inherit;
+flex-direction: row;
+text-align: center;
+}
 
+.name1 {
+  font-size: 40px;
+  width: 25%;
+  border: solid 0px;
+  color: 	#FFFFFF;
+  float: left;
+  text-align: center;
+}
+
+.name2 {
+  font-size: 40px;
+  width: 25%;
+  border: solid 0px;
+  color: 	#FFFFFF;
+  float: left;
+  text-align: center;
+
+}
+
+.name3 {
+  font-size: 40px;
+  width: 25%;
+  border: solid 0px;
+  color: 	#FFFFFF;
+  float: right;
+  text-align: center;
+}
+
+.name4 {
+  font-size: 40px;
+  width: 25%;
+  border: solid 0px;
+  color: 	#FFFFFF;
+  float: right;
+  text-align: center;
 }
