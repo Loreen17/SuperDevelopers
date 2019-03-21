@@ -105,28 +105,30 @@ text-align: center;
   text-align: center;
 }
 #form{
-  color: #ffffff;
+  color: #FFFFFF;
   text-align: center;
-  font-size: 30px;
-  width: 100%;
+  font-size: 50px;
   border-radius: 30px;
   font-style: italic;
+  width: 25% ;
+margin:auto;
 }
 
 input[type=text], select {
-  color: #ffffff;
-  text-align: center;
+  color: #000000;
+  justify-content: center;
   margin:8px 0;
   width: 100%;
   padding: 15px 20px;
   border-radius: 30px;
   box-sizing:border-box;
   font-style: italic;
+  font-size: 40px;
  }
  #submit{
    box-shadow: inset -3px -3px 10px #eee;
    border-radius: 15px;
-   font-size: 25px;
+   font-size: 30px;
    color: #141FCD;
    text-align: center;
 }
